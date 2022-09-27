@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:ex="http://ex/#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:Person>
+        <foaf:homepage rdf:resource="https://juliencstn.github.io/"/>
+        <foaf:name>Julien CASTAN</foaf:name>
+        <foaf:givenname>Julien</foaf:givenname>
+        <foaf:family_name>CASTAN</foaf:family_name>
+        <foaf:title>Homepage de Julien CASTAN</foaf:title>
+        <foaf:dateOfBirth>02/03/1998</foaf:dateOfBirth>
+    </foaf:Person>
+</rdf:RDF>
